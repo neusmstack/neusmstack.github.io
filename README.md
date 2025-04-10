@@ -11,13 +11,13 @@ Siempre me ha interesado **experimentar** con las matemáticas, empezando con ej
 
 Ya en los albores de mi jubilación, y al haber padecido un ictus, el **conocimiento** cada vez me genera más inquietudes y más pasión por conocer y profundizar más en las tecnologías que he ido descubriendo. Es un universo en expansión y que queda mucho por crear recursos educativos eficientes. 
 
-> <center> "El conocimiento es poderoso,
+***> <center> "El conocimiento es poderoso,
 
 pero no cambia a los sujetos a bien,
 
 si éstos lo perciben como
 
-un arma de destrucción masiva - Neus Morlà</center>
+un arma de destrucción masiva" - Neus Morlà </center> ***
 
 Me gustaría poder compartir mis conocimientos y llegar a poder intercambiar procesos con todas aquellas personas que tengan los mismos intereses en realizar conjuntamente experimentos que puedan integrar:la matemática con métodos manipulativos, los bloques de construcción compatibles, los nuevos microprocesadores de tecnologia desarrollada por M5Stack y micro:bit y lenguajes de programación como MakeCode, Scratch, python, UiFlow y UiFlow 2.0.
 
