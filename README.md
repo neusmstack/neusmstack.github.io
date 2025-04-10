@@ -1,6 +1,9 @@
 # neusmstack.github.io
 # Neus Morlà Arias. Biografía
 
+
+<p style="text-align: justify;">Soy Neus Morlà Arias, menorquina de nacimiento, pero catalana de adopción. Estudié Ciencias Físicas en la Universitat de Barcelona y me licencié en 1993. Desde muy joven, me atraía el mundo de la educación y empecé a dar clases de repaso de matemáticas, mientras realizaba los estudios. Al acabar la carrera, estuve a punto de dedicarme a la investigación, pero me superó la vocación que tenía para la enseñanza y, durante los tres primeros años de mi carrera profesional estuve impartiendo clases de matemáticas en un centro privado. Fue a partir de 1996 que desarrollé toda mi carrera en el ámbito público. consiguiendo sacar las oposiciones en el cuerpo de docentes de la especialidad en matemáticas para ejercer en centros de la Generalitat de Catalunya. Por tanto, durante más de treinta años, he sido profesora de matemáticas.</p>
+
 Soy Neus Morlà Arias, menorquina de nacimiento, pero catalana de adopción. Estudié Ciencias Físicas en la Universitat de Barcelona y me licencié en 1993. Desde muy joven, me atraía el mundo de la educación y empecé a dar clases de repaso de matemáticas, mientras realizaba los estudios. Al acabar la carrera, estuve a punto de dedicarme a la investigación, pero me superó la vocación que tenía para la enseñanza y, durante los tres primeros años de mi carrera profesional estuve impartiendo clases de matemáticas en un centro privado. Fue a partir de 1996 que desarrollé toda mi carrera en el ámbito público. consiguiendo sacar las oposiciones en el cuerpo de docentes de la especialidad en matemáticas para ejercer en centros de la Generalitat de Catalunya. Por tanto, durante más de treinta años, he sido profesora de matemáticas.
 
 ## Matemáticas y STEAM
