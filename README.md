@@ -11,7 +11,7 @@ Siempre me ha interesado **experimentar** con las matemáticas, empezando con ej
 
 Ya en los albores de mi jubilación, y al haber padecido un ictus, el **conocimiento** cada vez me genera más inquietudes y más pasión por conocer y profundizar más en las tecnologías que he ido descubriendo. Es un universo en expansión y que queda mucho por crear recursos educativos eficientes. 
 
-> <center> > ***El conocimiento es poderoso,
+> <center> >El conocimiento es poderoso,
 
 >pero no cambia a los sujetos a bien,
 
