@@ -18,7 +18,7 @@ un arma de destrucción masiva" - Neus Morlà </center>
 
 **Me gustaría poder compartir mis conocimientos y llegar a poder intercambiar procesos con todas aquellas personas que tengan los mismos intereses** en realizar conjuntamente experimentos que puedan integrar:la matemática con métodos manipulativos, los bloques de construcción compatibles, los nuevos microprocesadores de tecnologia desarrollada por M5Stack y micro:bit y lenguajes de programación como MakeCode, Scratch, python, UiFlow y UiFlow 2.0.
 
-![FÁBRICA DE PEANO, La creación de los Números Naturales]([https://drive.google.com/file/d/1eLro3_OObTGLe-J5ewJQrSlxfrp8Lpb8/view?usp=drive_link)])
+![FÁBRICA DE PEANO, La creación de los Números Naturales]([https://drive.google.com/file/d/1eLro3_OObTGLe-J5ewJQrSlxfrp8Lpb8/view?usp=drive_link])
 
 ## <font color="blue">¿Estás interesado/a?</font>
 
