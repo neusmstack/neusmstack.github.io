@@ -23,6 +23,17 @@ un arma de destrucción masiva" - Neus Morlà </center>
 
 ![FÁBRICA DE PEANO 2, La creación de los Números Enteros con M5Stack]![IMG_1145](https://github.com/user-attachments/assets/3c3140b9-2e48-41d0-b432-51c0181a7d90)
 
+## License
+
+This website and its contents are licensed under the  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+© Neus M. — All rights reserved for non-commercial use.
+
+Add license section to README
+
+
+
 ## <font color="blue">¿Estás interesado/a?</font>
 
 **¿A qué esperas?** Contacta conmigo y hablemos sobre todo aquello que implique y e
