@@ -1,3 +1,9 @@
+# Neus MStack Projects
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Educational and STEAM-based open projects using M5Stack and Micro:bit.
+
 # <font color="blue">neusmstack.github.io</font>
 ## <font color="blue">Morlà Arias. Biografía</font>
 
